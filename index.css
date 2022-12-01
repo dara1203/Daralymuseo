@@ -1,0 +1,179 @@
+body {
+background-color: #262626;
+    
+}
+
+.navbar {
+    background-color: #ebebeb!important;
+   
+    font-family:'DM Serif Display', serif;
+    font-size: larger;
+}
+
+.navbar-nav ul {
+    padding-right: 500px;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar .nav-link:hover {
+    color: #BF9B7A;
+}
+
+
+#intro {
+    position: relative;
+    background: url(img/afuera.jpg) no-repeat center center  fixed;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: 'DM Serif Display', serif;
+}
+
+#intro h1 {
+    padding-top: 290px;
+}
+
+
+#inicio  {
+
+
+ padding-top: 230px;
+    padding-bottom: 250px;
+}
+
+#inicio h2 {
+    font-family:'DM Serif Display', serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #BF9B7A;
+}
+
+#inicio p {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+.btn  {
+    color: #F2F2F2;
+    background-color: #BF9B7A;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+
+header {
+    padding-top: 80px;
+}
+
+#colecciones {
+    padding-top: 150px;
+    background-color:#F2F2F2;
+    padding-bottom: 150px;
+    color: #BF9B7A;
+}
+
+#colecciones h2 {
+    padding-bottom: 10px;
+    font-family:'DM Serif Display', serif;
+}
+
+
+#colecciones h3, h4 {
+   
+   font-family:'DM Serif Display', serif;
+   color: #BF9B7A;
+   text-align: center;
+}
+
+#colecciones p {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+
+#pastillas {
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+#pastillas h2,h3 {
+    font-family:'DM Serif Display', serif;
+    color: #BF9B7A;
+}
+
+#pastillas p {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+.bi{
+    color: white;
+   
+    
+}
+
+
+
+#opiniones {
+background-color: #F2F2F2;
+padding-top: 130px;
+padding-bottom: 180px;
+
+
+}
+
+#opiniones h2 {
+    color: #BF9B7A;
+    font-family: 'DM Serif Display', serif;
+    padding-bottom: 10px
+}
+
+#contacto {
+    padding-top: 130px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    color: #F2F2F2;
+}
+
+#contacto h2 {
+    font-family: 'DM Serif Display', serif;
+    padding-bottom: 50px;
+    color: #BF9B7A;
+
+}
+
+#final {
+    background-color:#ebebeb;
+    color: #BF9B7A;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
